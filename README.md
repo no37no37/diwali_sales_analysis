@@ -26,7 +26,8 @@ A count plot and total amount visualization were generated to understand the dis
 
 ### State-wise Analysis
 
-The analysis extended to examining the top 10 states contributing to both total orders and total sales. Uttar Pradesh, Maharashtra, and Karnataka emerged as significant contributors to both categories.![image](https://github.com/no37no37/diwali_sales_analysis/assets/132648428/10407177-12ee-4a45-bfd8-ae19db6e189b)
+The analysis extended to examining the top 10 states contributing to both total orders and total sales. Uttar Pradesh, Maharashtra, and Karnataka emerged as significant contributors to both categories.
+![image](https://github.com/no37no37/diwali_sales_analysis/assets/132648428/10407177-12ee-4a45-bfd8-ae19db6e189b)
 ![image](https://github.com/no37no37/diwali_sales_analysis/assets/132648428/a34c5ec8-5d21-47dc-8d64-f4d488bc724e)
 
 
