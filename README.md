@@ -34,6 +34,7 @@ The analysis extended to examining the top 10 states contributing to both total 
 ### Marital Status and Occupation Analysis
 
 Bar charts were used to explore the impact of marital status on purchasing behavior. Married women were identified as a prominent customer segment with high purchasing power. Furthermore, the occupation-wise analysis revealed that customers working in IT, Healthcare, and Aviation sectors were predominant.
+
 ![image](https://github.com/no37no37/diwali_sales_analysis/assets/132648428/1cdf9148-3c47-468c-963c-9449582ca511)
 
 ![image](https://github.com/no37no37/diwali_sales_analysis/assets/132648428/bc795531-d24c-4f49-b9c7-9b42da345561)
